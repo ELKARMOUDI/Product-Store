@@ -3,6 +3,9 @@
 A full‑stack e-commerce web application built with React, Vite, Chakra UI, MongoDB, and Express. This repo showcases my **Product Store** project, demonstrating clean architecture, intuitive UI, and robust backend support.
 
 ---
+![7E7C8356-BE09-4492-A0E4-5C3FB41F2357](https://github.com/user-attachments/assets/b1970b32-26b1-4833-b057-95654be954be)
+
+
 
 ## 🚀 Features
 
