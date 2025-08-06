@@ -34,6 +34,8 @@ A full‑stack e-commerce web application built with React, Vite, Chakra UI, Mon
 - **MongoDB & Mongoose** – document database with ODM  
 - **Postman** – testing and documenting API endpoints during development  
 
+
+
 ### 🔹 Dev Tools & Build
 - **ESLint** – code quality and consistency  
 - **npm** – dependency management  
