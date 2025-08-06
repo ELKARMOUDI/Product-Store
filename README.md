@@ -10,6 +10,7 @@ A full‑stack e-commerce web application built with React, Vite, Chakra UI, Mon
 - **Responsive UI**: Built with Chakra UI for mobile and desktop
 - **Live Updates**: React Router for smooth page navigation
 - **REST API**: Express-powered backend serving product data
+- **Data Persistence**: MongoDB database for storing product information
 
 
 
@@ -21,8 +22,7 @@ A full‑stack e-commerce web application built with React, Vite, Chakra UI, Mon
 - **React (v18)** – for building dynamic user interfaces  
 - **Vite** – lightning-fast build and dev server  
 - **Chakra UI** – accessible and customizable component library  
-- **@chakra-ui/icons** & **react-icons** – iconography across the UI  
-- **React Router** – client-side routing for page navigation  
+
 
 ### 🔹 Backend
 - **Node.js & Express** – RESTful API server  
