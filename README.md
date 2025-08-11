@@ -12,6 +12,7 @@ A full‑stack e-commerce web application built with React, Vite, Chakra UI, Mon
 - **Product Management**: Create, read, update, and delete products
 - **Responsive UI**: Built with Chakra UI for mobile and desktop
 - **Live Updates**: React Router for smooth page navigation
+- **REST API**: Express-powered backend serving product data
 
 
 ---
