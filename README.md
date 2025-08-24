@@ -22,6 +22,7 @@ A full‑stack e-commerce web application built with React, Vite, Chakra UI, Mon
 ### 🔹 Frontend
 - **React (v18)** – for building dynamic user interfaces  
 - **Vite** – lightning-fast build and dev server  
+- **Chakra UI** – accessible and customizable component library  
 
   
 ### 🔹 Backend
