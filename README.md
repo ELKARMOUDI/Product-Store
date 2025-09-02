@@ -7,7 +7,6 @@ A full‑stack e-commerce web application built with React, Vite, Chakra UI, Mon
 
 
 
-
 ## 🚀 Features
 
 - **Product Management**: Create, read, update, and delete products
