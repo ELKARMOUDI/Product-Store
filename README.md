@@ -14,7 +14,6 @@ A full‑stack e-commerce web application built with React, Vite, Chakra UI, Mon
 - **REST API**: Express-powered backend serving product data
 - **Data Persistence**: MongoDB database for storing product information
 
-
 ---
 
 ## 🧰 Tech Stack
